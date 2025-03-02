@@ -29,6 +29,6 @@ Open the project in a web browser.
 
 Enter two numbers in the prompts that appear.
 
-View the results in the browser's console.
+View the results in the browser console.
 
 
